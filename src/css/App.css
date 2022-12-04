@@ -1,0 +1,45 @@
+.add-appointment .card-body {
+  display: none;
+}
+
+.appt-addheading {
+  cursor: pointer;
+  user-select: none;
+}
+
+.appointment-list {
+  font-size: 1.1em;
+}
+
+.appointment-list .car-item {
+  border-bottom: 1px dotted gray;
+}
+
+.appointment-list .car-item:last-child {
+  border-bottom: none;
+}
+
+.appointment-list .car-make {
+  font-weight: 600;
+  color: #337ab7;
+  font-size: 1.3em;
+  line-height: 100%;
+}
+
+.appointment-list .label-item {
+  font-weight: 600;
+  color: #667b82;
+}
+
+.appointment-list .appt-date {
+  font-style: italic;
+}
+
+.appointment-list .appt-srcveType {
+  line-height: 120%;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #a9aeb2;
+}

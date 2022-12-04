@@ -1,0 +1,162 @@
+[
+    {
+    "ownerName": "Jamie Hurburt",
+    "carMake": "Volvo",
+    "carModel": "V90",
+    "svceType": "Oil change",
+    "apptDate": "2020/04/20",
+    "apptTime": "08:02"
+  }, 
+  {
+    "ownerName": "Neale Maybery",
+    "carMake": "Chevrolet",
+    "carModel": "Camaro",
+    "svceType": "Timing belt",
+    "apptDate": "2020/08/09",
+    "apptTime": "17:55"
+  }, 
+  {
+    "ownerName": "Evy Blankett",
+    "carMake": "Lexus",
+    "carModel": "GS",
+    "svceType": "Tire rotation",
+    "apptDate": "2020/08/08",
+    "apptTime": "11:32"
+  }, 
+  {
+    "ownerName": "Norrie Goodlet",
+    "carMake": "Pontiac",
+    "carModel": "Firebird",
+    "svceType": "Brake pads",
+    "apptDate": "2020/04/24",
+    "apptTime": "13:03"
+  }, 
+  {
+    "ownerName": "Clare Melbourn",
+    "carMake": "Land Rover",
+    "carModel": "Range Rover",
+    "svceType": "Timing belt",
+    "apptDate": "2020/11/04",
+    "apptTime": "09:22"
+  }, 
+  {
+    "ownerName": "Paulette Thewless",
+    "carMake": "Toyota",
+    "carModel": "Tundra",
+    "svceType": "Check engine light",
+    "apptDate": "2020/12/12",
+    "apptTime": "08:42"
+  }, 
+  {
+    "ownerName": "Darline Stainson",
+    "carMake": "Volkswagen",
+    "carModel": "Jetta",
+    "svceType": "Engine",
+    "apptDate": "2021/02/19",
+    "apptTime": "10:26"
+  }, 
+  {
+    "ownerName": "Pandora Channer",
+    "carMake": "Land Rover",
+    "carModel": "Range Rover",
+    "svceType": "Exhaust",
+    "apptDate": "2020/09/22",
+    "apptTime": "17:38"
+  }, 
+  {
+    "ownerName": "Lyn Brant",
+    "carMake": "Pontiac",
+    "carModel": "Sunbird",
+    "svceType": "Transmission",
+    "apptDate": "2020/09/22",
+    "apptTime": "11:12"
+  }, 
+  {
+    "ownerName": "Gelya Bauldry",
+    "carMake": "Mitsubishi",
+    "carModel": "Galant",
+    "svceType": "Routine maintenance",
+    "apptDate": "2021/01/07",
+    "apptTime": "13:46"
+  }, 
+  {
+    "ownerName": "Celestine Gabala",
+    "carMake": "Lexus",
+    "carModel": "RX Hybrid",
+    "svceType": "Alignment",
+    "apptDate": "2020/07/14",
+    "apptTime": "12:35"
+  }, 
+  {
+    "ownerName": "Mattie Kennedy",
+    "carMake": "Toyota",
+    "carModel": "Xtra",
+    "svceType": "Brake caliper",
+    "apptDate": "2020/04/13",
+    "apptTime": "09:17"
+  }, 
+  {
+    "ownerName": "Desmond Raggitt",
+    "carMake": "Mazda",
+    "carModel": "Familia",
+    "svceType": "Wheel bearing",
+    "apptDate": "2020/12/28",
+    "apptTime": "14:33"
+  }, 
+  {
+    "ownerName": "Dorey Quilliam",
+    "carMake": "GMC",
+    "carModel": "Yukon Denali",
+    "svceType": "Suspension",
+    "apptDate": "2020/05/18",
+    "apptTime": "13:20"
+  }, 
+  {
+    "ownerName": "Devan Thain",
+    "carMake": "Mitsubishi",
+    "carModel": "Outlander",
+    "svceType": "Front axle",
+    "apptDate": "2020/12/10",
+    "apptTime": "16:56"
+  }, 
+  {
+    "ownerName": "Julia Augar",
+    "carMake": "Chrysler",
+    "carModel": "Imperial",
+    "svceType": "Coil springs",
+    "apptDate": "2020/08/20",
+    "apptTime": "11:31"
+  }, 
+  {
+    "ownerName": "Debby Shaefer",
+    "carMake": "Nissan",
+    "carModel": "350Z",
+    "svceType": "Heating and cooling",
+    "apptDate": "2020/08/22",
+    "apptTime": "15:08"
+  }, 
+  {
+    "ownerName": "Far Galbreth",
+    "carMake": "Dodge",
+    "carModel": "Durango",
+    "svceType": "Windshield",
+    "apptDate": "2020/08/08",
+    "apptTime": "09:23"
+  }, 
+  {
+    "ownerName": "Bent Eldridge",
+    "carMake": "Cadillac",
+    "carModel": "SRX",
+    "svceType": "Bumpers",
+    "apptDate": "2020/10/22",
+    "apptTime": "08:34"
+  }, 
+  {
+    "ownerName": "Rab Gensavage",
+    "carMake": "Honda",
+    "carModel": "Element",
+    "svceType": "Fuel system",
+    "apptDate": "2020/06/28",
+    "apptTime": "17:12"
+  }
+]
